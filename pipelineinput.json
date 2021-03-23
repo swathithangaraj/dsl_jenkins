@@ -1,0 +1,14 @@
+{
+    "buildinputs":[
+        {
+            "jobname": "APTF_2.0",
+            "scmurl": "",
+            "scmbranch": "",        
+            
+            "maven_version":"mavenhome"
+        
+            
+
+        }
+    ]
+}
